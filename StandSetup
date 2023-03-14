@@ -1,0 +1,325 @@
+Finished Tutorial: Yes
+Understands Commands: Yes
+Understands Sliders: Yes
+Understands Profiles: Yes
+Understands Command Chaining: Yes
+Tree Compatibility Version: 44
+Self
+	Weapons
+		Infinite Ammo: On
+		No Spooling: On
+		Instant Lock-On: On
+		Total Freedom: On
+		Increased Sticky Limit: On
+		Increased Flare Limit: On
+	Immortality: On
+	Gracefulness: On
+	Glued To Seats: On
+	Infinite Stamina: On
+Vehicle
+	Movement
+		No Turbulence: On
+	Indestructible: On
+	Permanent Mint Condition: On
+	Auto Transform Amphibious Cars
+		Auto Transform Amphibious Cars: On
+Online
+	Transitions
+		Matchmaking
+			Player Magnet: 25
+		Seamless Session Switching
+			World State Change: Disabled
+		Skip Swoop Down: On
+		Show Rockstar Support Message: On
+		Disable Spawn Activities: On
+		Disable DLC Intro Movie: On
+		Show Transition State: On
+	Session
+		Block Joins
+			Message: Different Build Type
+		Player Bar
+			Player Bar: On
+			Hide Players With No Tags: On
+			Self
+				Colour: FFFFFFFF
+				Use Colour: Off
+			Friend
+				Colour: 00FF00FF
+				Use Colour: On
+		Player Leave Reasons
+			Notification: On
+			Write To Console: On
+			Show "Was Blocked From Joining": On
+		Player Leave Notifications
+			Notification: On
+			Write To Console: On
+	Enhancements
+		All Missions In Private Sessions: On
+		Disable Idle/AFK Kick: On
+		Speed Up Dialing: On
+		Disable Death Barriers: On
+		Disable Mechanic Cooldown: On
+		Disable Oppressor Mk II Cooldown: On
+		Disable VIP Work Cooldown: On
+		Disable Suicide Cooldown: On
+		Disable Passive Mode Cooldown: On
+		Disable Orbital Cannon Cooldown: On
+		Disable Event End Countdown Audio: On
+		Toggleable Big Map: On
+		Allow Weaponised Vehicles In Passive Mode: On
+		Remote Control Any Vehicle: On
+		Disable Forced RC Perspective: On
+		Bypass Interior Restrictions: On
+		Bypass Interaction Menu Barriers: On
+		Bypass Casino Region Lock: On
+		Bypass Time Trial Vehicle Suitability: On
+		Notify On Commendation: On
+		Disable Daily Expenses: On
+		Block Background Script: On
+	Protections: Warning Acknowledged
+		Events
+			Crash Event
+				Write To Console: Enabled
+				Kick: Strangers
+			Kick Event
+				Write To Console: Enabled
+				Kick: Strangers
+			Modded Event
+				Write To Console: Enabled
+			Apartment Invite
+				Block: Enabled
+				Write To Console: Enabled
+			Force Camera Forward
+				Write To Console: Enabled
+			Start Freemode Mission
+				Write To Console: Enabled
+			Start Freemode Mission (Not My Boss)
+				Write To Console: Enabled
+			Teleport To Interior
+				Write To Console: Enabled
+			Teleport To Interior (Not My Boss)
+				Write To Console: Enabled
+			Give Collectible
+				Write To Console: Enabled
+			Give Collectible (Not My Boss)
+				Write To Console: Enabled
+			Infinite Loading Screen
+				Write To Console: Enabled
+			Infinite Phone Ringing
+				Write To Console: Enabled
+			Teleport To Cayo Perico
+				Write To Console: Enabled
+			Cayo Perico Invite
+				Write To Console: Enabled
+			Send To Cutscene
+				Write To Console: Enabled
+			Send To Job
+				Write To Console: Enabled
+			Transaction Error Event
+				Write To Console: Enabled
+			Vehicle Takeover
+				Block: Strangers
+				Write To Console: Enabled
+			Disable Driving Vehicles
+				Write To Console: Enabled
+			Kick From Vehicle
+				Block: Strangers
+				Write To Console: Enabled
+			Freeze
+				Write To Console: Enabled
+			Love Letter Kick Blocking Event
+				Write To Console: Enabled
+			Camera Shaking Event
+				Write To Console: Enabled
+			Explosion Spam
+				Write To Console: Enabled
+			Raw Network Events: Warning Acknowledged
+				WEAPON_DAMAGE_EVENT
+					Notification: Enabled
+				Give Weapon Event
+					Notification: Enabled
+				Remove Weapon Event
+					Notification: Enabled
+				Remove All Weapons Event
+					Notification: Enabled
+				Explosion
+					Notification: Enabled
+		Detections
+			Classifications
+				Any Classification
+					Notification: Enabled
+					Write To Console: Enabled
+				Modder
+					Notification: Enabled
+					Write To Console: Enabled
+				Admin
+					Notification: Enabled
+					Write To Log File: Enabled
+					Write To Console: Enabled
+				Likely Modder
+					Notification: Enabled
+					Write To Console: Enabled
+				Possible Modder
+					Notification: Enabled
+					Write To Console: Enabled
+			Stand User Identification: Off
+			Any Detection
+				Notification: Enabled
+				Write To Console: Enabled
+		Text Messages
+			Any Message
+				Notification: Enabled
+				Write To Console: Enabled
+			Advertisement
+				Notification: Enabled
+				Block: Disabled
+				Write To Console: Enabled
+				Kick: Enabled
+			Bypassed Message Filter
+				Write To Console: Enabled
+		Session Script Start
+			Any Script
+				Notification: Enabled
+				Write To Console: Enabled
+		Host Kicks
+			Host Kick Karma: On
+		Breakup Kick Reactions
+			Write To Console: On
+			Block: Enabled
+			Karma: Enabled
+		Knockoff Breakup Kick Reactions
+			Myself
+				Write To Console: On
+			Someone Else
+				Notification: On
+				Write To Console: On
+		Love Letter & Desync Kicks
+			Notification When Love Letter Kicked: On
+			Desync Kick Karma: On
+		Pickups
+			Any Pickup Collected
+				Notification: On
+				Write To Console: On
+		Block Bailing
+			Spectating Related: On
+		Block Vote Kicks: Freemode Mission 4
+		Lessen Breakup Kicks As Host: On
+		Block Join Karma: On
+		Block Entity Spam
+			Automatically Use Anti-Crash Cam: On
+	Chat
+		Reactions
+			Advertisement
+				Notification: Enabled
+				Block: Disabled
+				Write To Console: Enabled
+				Kick: Strangers
+			Bypassed Message Filter
+				Write To Console: Enabled
+			Chat Spam
+				Notification: Enabled
+				Write To Console: Enabled
+		Typing Indicator
+			Typing Indicator: On
+		Spam
+			Text: [0]
+		Suppress Typing Indicator: On
+		Log Chat Messages
+			Console: On
+		Type Out Player Names: On
+		Paste In Chat Message: On
+		Bypass Character Filter: Enabled
+		Bypass Profanity Filter: Enabled
+		Show All Chat Messages: On
+		Open Chat When Scrolling: On
+	Reactions
+		Player Join Reactions
+			Notification: Enabled
+			Write To Console: Enabled
+		RID Join Reactions
+			Notification: On
+			Write To Console: On
+		Host Change Reactions
+			Notification: Enabled
+			Write To Console: Enabled
+		Script Host Change Reactions
+			Notification: Enabled
+			Write To Console: Enabled
+		Vote Kick Reactions
+			Voting To Kick Anyone
+				Notification: Enabled
+				Write To Console: Enabled
+			Voting To Kick Me
+				Write To Console: Enabled
+		Love Letter Kick Reactions
+			Write To Console: Enabled
+		Report Reactions
+			Write To Console: Enabled
+		Bounty Reactions
+			Write To Console: Enabled
+	ATM
+		Auto Deposit Wallet: 1000000
+	Tunables
+		Disable Insurance Payments: On
+		Halloween Event: On
+		Peyote Plants: On
+	Reveal Off The Radar Players: On
+	Rockstar Admin DLC: On
+World
+	Enhanced Open World
+		Enhanced Open World: On
+	Watch_Dogs-Like World Hacking
+		Watch_Dogs-Like World Hacking: On
+		When Target Selected...
+			Show Box: On
+		Colour: 00FF00FF
+		Hacks
+			Vehicle Actions
+				Ignite: On
+			Player Actions
+				Cage: On
+	World Border
+		World Border: 1020
+		Colour: FF0000FF
+	I Like Trains: On
+	AR Waypoint: On
+	AR GPS: On
+Game
+	Disables
+		Prevent Numpad 7 Opening Social Club: On
+	Info Overlay
+		Speedometer: On
+		Players: On
+		Player Tags
+			Host: On
+			Next Host: On
+			Script Host: On
+			Invulnerable: On
+		Country Breakdown: Sort By Count
+	Unlocks
+		Override Pre-Order Bonus: On
+	Disable Keyboard Hook: On
+	Early Inject Enhancements
+		Memory Pool Size (MB): 2147
+		Set Game To High Priority: On
+	Use Script VM Reimplementation: On
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: 646464FF
+				Background Colour: 00000096
+				HUD Colour: FF0000FF
+				AR Colour: 00FF00FF
+			Address Bar
+				Show Cursor Position: On
+			Notifications
+				Border Colour: 00FF00FF
+				Flash Colour: 000000B4
+			Border
+				Colour: 000000FF
+		Session Joining
+			Automatically Change Targeting Mode: On
+	Lua Scripts
+		NetworkMenu: On
+	Console: On
